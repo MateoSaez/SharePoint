@@ -7,7 +7,7 @@ setup(
     author='Mateo Saez',
     author_email='mateo.saez@outlook.es',
     # Needed to actually package something
-    packages=['SFTP'],
+    packages=['SharePoint'],
     # Needed for dependencies
     install_requires=['Office365-REST-Python-Client'],
     # *strongly* suggested for sharing
