@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     # Needed to silence warnings (and to be a worthwhile package)
-    name='SFTP',
+    name='SharePoint',
     url='https://github.com/MateoSaez/SharePoint',
     author='Mateo Saez',
     author_email='mateo.saez@outlook.es',
